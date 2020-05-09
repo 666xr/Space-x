@@ -32,3 +32,9 @@
   document.querySelector('.next').addEventListener('click', function () {
     slider.goTo('next');
   }); 
+
+
+  
+
+
+  
